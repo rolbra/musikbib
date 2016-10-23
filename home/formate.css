@@ -1,0 +1,25 @@
+﻿h3 { font-size: 1.5em; font-family: cursive; }
+p { font-size: 1em; }
+th { font-size: 1.05em; }
+li { font-size: 1.2em; }
+li li { font-size: 0.8em; }
+#saufen li { font-family: cursive }
+body {
+		background: url(img/1024x768_fresh.jpg) no-repeat left -300px;
+	 }
+button {
+		/*background-color: ; /*#4CAF50; /* Green */
+		border: none;
+		color: black;
+		padding: 4px 20px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		border-radius: 6px;
+		transition-duration: 0.4s;
+		 }
+button:hover {
+			background-color: #555555;
+			color: white;
+			}
